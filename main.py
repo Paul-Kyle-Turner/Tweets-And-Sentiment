@@ -3,6 +3,8 @@ import numpy as np
 import html
 import re
 
+# GIT TEST
+
 
 def grab_file(file_path, mode='w', encoding='utf8'):
     return open(file=file_path, mode=mode, encoding=encoding)
